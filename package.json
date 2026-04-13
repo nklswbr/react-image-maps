@@ -32,8 +32,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/niklaswebermann/react-image-maps"
+    "url": "https://github.com/nklswbr/react-image-maps"
   },
+  "homepage": "https://github.com/nklswbr/react-image-maps#readme",
   "peerDependencies": {
     "react": ">=16.8.0",
     "react-dom": ">=16.8.0"

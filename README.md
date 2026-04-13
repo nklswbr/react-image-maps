@@ -141,4 +141,4 @@ const areas: Area[] = [
 
 ## License
 
-MIT License. See [LICENSE](./LICENSE) for details.
+MIT License. See [LICENSE](https://github.com/nklswbr/react-image-maps/blob/main/LICENSE) for details.
