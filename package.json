@@ -1,6 +1,6 @@
 {
   "name": "react-image-maps",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Responsive HTML image maps for React",
   "source": "src/index.tsx",
   "main": "dist/index.js",
